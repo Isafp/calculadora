@@ -14,7 +14,7 @@ def mul(a, b):
   return a * b
 def div(a, b):
   return a / b
-def main():
+def main()
 
 a = st.number_input("Enter a number")
 b = st.number_input("Enter another number")
