@@ -8,6 +8,7 @@ def div(a, b):
   return a / b
 def main():
 st.title("Simple Calculator")
+
 st.write("This is a simple calculator app")
 a = st.number_input("Enter a number")
 b = st.number_input("Enter another number")
