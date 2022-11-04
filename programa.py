@@ -1,7 +1,7 @@
 import streamlit as st
-import pandas
-import hashlib
-import statistics
+#import pandas
+#import hashlib
+#import statistics
 
 st.title("Simple Calculator")
 st.write("This is a simple calculator app")
